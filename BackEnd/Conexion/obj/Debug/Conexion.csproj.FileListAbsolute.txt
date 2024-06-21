@@ -1,0 +1,1 @@
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache

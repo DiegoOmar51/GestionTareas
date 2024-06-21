@@ -1,0 +1,12 @@
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\obj\Debug\ConectarDatos.pdb
+C:\Users\dpatiño\Documents\GitHub\GestionTareas\BackEnd\ConectarDatos\obj\Debug\ConectarDatos.csproj.AssemblyReference.cache
